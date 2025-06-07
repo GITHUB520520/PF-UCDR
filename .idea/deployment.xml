@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@connect.nma1.seetacloud.com:52185 password (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@172.27.109.162:9700 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/app/project/UCDR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nma1.seetacloud.com:52185 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_677" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nma1.seetacloud.com:52185 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/PF-UCDR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-46.seetacloud.com:37471 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/PF-UCDR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

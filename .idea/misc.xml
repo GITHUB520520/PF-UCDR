@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (UCDR2024-main)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.8 (sftp://root@connect.nma1.seetacloud.com:52185/root/.virtualenvs/PF-UCDR/bin/python) (2)" project-jdk-type="Python SDK" />
+</project>
