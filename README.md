@@ -5,7 +5,7 @@
 
 <!-- Replace with your actual architecture diagram -->
 <p align="center">
-  <img src="./PF-UCDR.png" width="800" alt="PF-UCDR Architecture">
+  <img src="./UCDR.png" width="800" alt="PF-UCDR Architecture">
 </p>
 <p align="center">
   <em>Overall architecture of PF-UCDR, illustrating training (left) and inference (right) stages.</em>
